@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mayoor2000
-- 👀 I’m interested in Data Science and Oil/Gas Industries
-- 🌱 I’m currently learning Data Science
+- 👋 Hi, I’m @Mayoor-Vora-Paliwal
+- 👀 I’m interested in Data Science 
+- 🌱 I’m currently learning Data Science and AI
 - 💞️ I’m looking to collaborate on CV Projects
 - 📫 How to reach me EMAIL-2000mayoor123@gmail.com
 
