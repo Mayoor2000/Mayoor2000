@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mayoor-Vora-Paliwal
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Data Science and AI
-- 💞️ I’m looking to collaborate on CV Projects
+- 💞️ I’m looking to collaborate on Deep Learning Projects
 - 📫 How to reach me EMAIL-2000mayoor123@gmail.com
 
 <!---
